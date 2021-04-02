@@ -1,0 +1,28 @@
+weatherAUS.csv
+About this file
+This dataset contains about 10 years of daily weather observations from numerous Australian weather stations.
+
+RainTomorrow is the target variable to predict. It means -- did it rain the next day, Yes or No?
+This column is Yes if the rain for that day was 1mm or more.
+http://www.bom.gov.au/climate/data
+
+Context
+The World Happiness Report is a landmark survey of the state of global happiness . The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness.
+
+Content
+The happiness scores and rankings use data from the Gallup World Poll . The columns following the happiness score estimate the extent to which each of six factors – economic production, social support, life expectancy, freedom, absence of corruption, and generosity – contribute to making life evaluations higher in each country than they are in Dystopia, a hypothetical country that has values equal to the world’s lowest national averages for each of the six factors. They have no impact on the total score reported for each country, but they do explain why some countries rank higher than others.
+
+https://worldhappiness.report/
+
+Context
+The year 2020 is behind us, therefore, many summaries of this pandemic year are created, e.g. in the form of rankings. Such a list (or actually 3 lists) was created by the "Restaurant Business" magazine. On the website you can find only basic information about ranked restaurants, full data and analyzes are available in the paid report.
+
+Content
+The data was obtained by means of web scraping, i.e. data download with the use of programming code based on the website code. In this case, the "rvest" package from the R programming language was used along with the "SelectorGadet" browser add-on to facilitate work with the website.
+
+The data was downloaded from www.restaurantbusinessonline.com on January 30, 2021 with three plants describing 3 rankings: top 250, top 100 indenents and future 50 thus creating 3 tables, where the restaurant is described by several variables in each row.
+
+Inspiration
+The data can be used to tell the story of what 2020 was like for restaurants, what was hot, what could be more popular soon, or what the difference is between large companies and smaller businesses. I am curious what useful information can be obtained from this data!
+
+www.restaurantbusinessonline.com
