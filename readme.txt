@@ -3,3 +3,5 @@
 Note that the Jupyter Notebook files contain sample responses that would be absent from student-facing versions.
 
 4/13/2021: Created student classwork and homework/discussion materials for lessons 1-4.
+
+4/14/2021: Created student classwork and homework/discussion materials for lessons 5, 6. Added babynames dataset.
